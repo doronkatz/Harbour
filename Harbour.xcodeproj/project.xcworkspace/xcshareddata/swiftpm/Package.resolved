@@ -1,5 +1,5 @@
 {
-  "originHash" : "ff3db79ae5ce614da55e8bf0e8c49b5ab1ff753cf079da09e1c497cd5f51a756",
+  "originHash" : "1e6bc4f5e08dd99ee30cfe4dfd5938f7dcccb309b100220ecc03879670d01be9",
   "pins" : [
     {
       "identity" : "commonskit",
@@ -35,6 +35,15 @@
       "state" : {
         "branch" : "main",
         "revision" : "9a7cbf968f3fcc21445f31a63dac22020d17a74b"
+      }
+    },
+    {
+      "identity" : "portainerkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rrroyal/PortainerKit",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ef462aba3b955ca85de09bdb45904256720b9fc4"
       }
     },
     {
